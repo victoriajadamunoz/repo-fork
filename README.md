@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm *Victoria Munoz*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_Hi, I am a current freshman at UTSA majoring in Information Systems and Technology with a minor in Cybersecurity. I work at Dave's Hot Chicken as a Team Lead and enjoy playing with my dogs._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -10,7 +10,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://github.com/victoriajadamunoz)
+[![LinkedIn](https://www.linkedin.com/in/victoria-mu%C3%B1oz-230583432/)
 
-_"Your sample quote here!"_
+_"Be Happy!"_
